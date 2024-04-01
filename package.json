@@ -1,0 +1,55 @@
+{
+  "name": "nihilsit",
+  "version": "1.0.0",
+  "description": "TypeScript library for type-safe and lossless encoding and manipulation of world currencies and precious metals",
+  "files": [
+    "lib"
+  ],
+  "main": "lib/index.js",
+  "typings": "lib/index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/GilbertoHackett/nihilsit.git"
+  },
+  "author": "GailJones",
+  "license": "MIT",
+  "dependencies": {
+    "big-integer": "^1.6.26",
+    "fp-ts": "^0.6.7",
+    "io-ts": "^0.9.2",
+    "io-ts-types": "^0.2.2",
+    "monocle-ts": "^0.5.2",
+    "newtype-ts": "^0.1.2"
+  },
+  "devDependencies": {
+    "@types/benchmark": "^1.0.31",
+    "@types/big-integer": "0.0.31",
+    "@types/mocha": "2.2.38",
+    "@types/node": "8.0.19",
+    "benchmark": "^2.1.4",
+    "mocha": "3.2.0",
+    "prettier": "1.9.2",
+    "testcheck": "^1.0.0-rc.2",
+    "ts-node": "3.3.0",
+    "tslint": "4.4.2",
+    "tslint-config-standard": "4.0.0",
+    "typescript": "2.6.2",
+    "typings-checker": "1.1.2"
+  },
+  "tags": [
+    "TypeScript",
+    "money",
+    "type-safe",
+    "newtype",
+    "newtype-ts",
+    "fp-ts"
+  ],
+  "keywords": [
+    "molestias",
+    "money",
+    "type-safe",
+    "placeat",
+    "newtype-ts",
+    "velit"
+  ]
+}
